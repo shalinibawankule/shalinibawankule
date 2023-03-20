@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shalini Bawankule
 
-
+# About Me
 
 Here are some ideas to get you started:
 
@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shalinivb2002@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
+
+# Tech Stack
+
+# Connect 
